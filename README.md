@@ -4,8 +4,6 @@
 [![Website Screenshot](haus-website.png)](https://your-website-url.com)
       
 
-```
-
 ## Table of Contents
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -48,7 +46,5 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) and npm install
 
 The website should now be running locally at [http://localhost:3000](http://localhost:3000). You can access it in your web browser.
 
-
-```
 
 
